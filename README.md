@@ -34,10 +34,6 @@ This is a RESTful API built using Spring Boot, providing functionalities for man
 
 Provide sample endpoints.
 
-## API Documentation
-
-Link to Swagger UI.
-
 ## Technologies Used
 
 - Spring Boot

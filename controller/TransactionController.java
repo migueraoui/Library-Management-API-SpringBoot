@@ -22,6 +22,4 @@ public class TransactionController {
         transactionService.returnBook(userId, bookId);
         return "Book returned successfully!";
     }
-
-    // Additional endpoints for transaction management
 }

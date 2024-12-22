@@ -29,5 +29,4 @@ public class BookController {
         return bookService.getBookById(id);
     }
 
-    // Additional endpoints for book management
 }

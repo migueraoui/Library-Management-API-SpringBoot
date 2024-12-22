@@ -1,4 +1,4 @@
-package sp.migr.librarymanagement.model;
+package sp.migr.librarymanagement.repository;
 
 
 import sp.migr.librarymanagement.model.Transaction;

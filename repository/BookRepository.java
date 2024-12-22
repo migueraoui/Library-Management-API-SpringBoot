@@ -1,4 +1,4 @@
-package sp.migr.librarymanagement.model;
+package sp.migr.librarymanagement.repository;
 
 
 import csp.migr.librarymanagement.model.Book;

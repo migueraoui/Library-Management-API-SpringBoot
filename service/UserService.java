@@ -1,4 +1,4 @@
-package sp.migr.librarymanagement.model;
+package sp.migr.librarymanagement.service;
 
 import sp.migr.librarymanagement.model.User;
 import sp.migr.librarymanagement.repository.UserRepository;

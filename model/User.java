@@ -6,15 +6,12 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 @Entity
-public class Book {
+public class User {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-    private String title;
-    private String author;
-    private String genre;
-    private int copiesAvailable;
-
-    // Getters and Setters
+    private String username;
+    private String password;
+    private String role; // ADMIN or USER 
 }
